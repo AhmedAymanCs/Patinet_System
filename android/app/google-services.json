@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576875881934",
+    "project_id": "patient-system-8ae7c",
+    "storage_bucket": "patient-system-8ae7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576875881934:android:89723021597fe77418779f",
+        "android_client_info": {
+          "package_name": "com.example.gradutaionproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576875881934-0hmlm4cd7am45p81m2bb03sgqd336qef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gradutaionproject",
+            "certificate_hash": "9bc7871d8a15e824b09b9118566c5350a018a662"
+          }
+        },
+        {
+          "client_id": "576875881934-9jd1tu7m8bha0e4vfjgiiuo8v4hvc8ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sSXdEZbm8EkH1PinjGNdlb8QNDPHEVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576875881934-9jd1tu7m8bha0e4vfjgiiuo8v4hvc8ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
